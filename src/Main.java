@@ -59,7 +59,6 @@ public class Main {
                     break;
                 default:
                     System.out.println("Opción no válida.");
-                    System.exit(0);
             }
 
             if(operacion != null){
